@@ -2,7 +2,7 @@
 #### 我是一名运维/运维开发/Linux/云原生 爱好者
 + 🔭 我目前担任运维工程师
 + 🌱 我目前正在学习一切。
-+ 👯 我希望在 Golang 实验项目中进行
++ 👯 正在做的事情 Web Development with Go
 + 🥅 2024 年目标：学习 Golang / ddevops / devsecops。
 
 <h3>语言和工具</h3>
