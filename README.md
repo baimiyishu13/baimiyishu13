@@ -3,7 +3,7 @@
 + 🔭 我目前担任运维工程师
 + 🌱 我目前正在学习一切。
 + 👯 正在做的事情 Web Development with Go
-+ 🥅 2024 年目标：学习 Golang / ddevops / devsecops。
++ 🥅 2024 年目标：学习 Golang / devops / devsecops。
 
 <h3>语言和工具</h3>
 <p>
